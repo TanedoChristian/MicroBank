@@ -18,6 +18,12 @@ namespace MicroRabbit.Banking.Data.Repository.AccountRepository
             _context = context;
         }
 
+        public async Task Create(Account account)
+        {
+            await _context.Accounts.AddAsync(account);
+            await _context.SaveChangesAsync();
+        }
+
         public async Task<IEnumerable<Account>> GetAll()
         {
             return await _context.Accounts.ToListAsync();

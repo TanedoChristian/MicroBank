@@ -27,6 +27,9 @@ namespace MicroRabbit.Banking.Application.Services.AccountService
             return await _accountRepository.GetById(id);
         }
 
-        
+        public async Task AddAccount(Account account)
+        {
+             await _accountRepository.Create(account);
+        }
     }
 }

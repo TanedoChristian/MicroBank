@@ -11,5 +11,7 @@ namespace MicroRabbit.Banking.Application.Services.AccountService
     {
         Task<IEnumerable<Account>> GetAllAccount();
         Task<Account> GetAccount(int id);
+
+        Task AddAccount(Account account);
     }
 }

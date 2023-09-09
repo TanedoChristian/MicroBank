@@ -10,5 +10,7 @@ namespace MicroRabbit.Banking.Data.Repository
     {
         Task<IEnumerable<T>> GetAll();
         Task<T> GetById(int id);
+
+        Task Create(T entity);
     }
 }
