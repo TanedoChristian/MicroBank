@@ -22,7 +22,7 @@ namespace MicroRabbit.Banking.Application.Services.AccountService
             return await _accountRepository.GetAll();
         }
 
-        public async Task<Account> GetAccount(int id)
+        public async Task<Account> GetAccountById(int id)
         {
             return await _accountRepository.GetById(id);
         }

@@ -10,7 +10,7 @@ namespace MicroRabbit.Banking.Application.Services.AccountService
     public interface IAccountService
     {
         Task<IEnumerable<Account>> GetAllAccount();
-        Task<Account> GetAccount(int id);
+        Task<Account> GetAccountById(int id);
 
         Task AddAccount(Account account);
     }

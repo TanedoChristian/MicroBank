@@ -13,12 +13,16 @@ namespace MicroRabbit.Banking.Api.Controllers
             _accountService = accountService;
         }
 
-        [HttpPost]
-        public async Task<IActionResult> PostData(IEnumerable<Account> account)
+        [HttpGet]
+        public async Task<IActionResult> GetAllAccounts()
         {
-            await _accountService.AddAccount(account);
+            return Ok(await _accountService.GetAllAccount());
+        }
 
-            return Ok("success");
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetAccountById(int id)
+        {
+            return Ok(await _accountService.GetAccountById(id));
         }
     }
 }
