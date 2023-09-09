@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Y7S2B3N3sXrVvHcX7f1EG7/R5gLKFyEyL5N+mUyulKwR0+oBJIapG+Id0ZA3ngx2K/1N2oA7KFUVj2Ctf3lT0w==",
+  "dgSpecHash": "GzTfX9fObNZ0RNWHwvOnI9PKkFJLfeuxxjrh+btrSrWl8+E4/DVOy7+LCG7orKqSgHtFnOQEsh5QfEEEhDf6ww==",
   "success": true,
   "projectFilePath": "C:\\Users\\Full Scale\\Documents\\Projects\\MicroRabbit\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Full Scale\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Full Scale\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\Full Scale\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\7.0.0\\mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Full Scale\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\Full Scale\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
     "C:\\Users\\Full Scale\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.10\\microsoft.entityframeworkcore.analyzers.7.0.10.nupkg.sha512",

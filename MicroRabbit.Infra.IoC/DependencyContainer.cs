@@ -20,7 +20,7 @@ namespace MicroRabbit.Infra.IoC
         public static void  RegisterService(IServiceCollection services)
         {
 
-
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddMediatR(AppDomain.CurrentDomain.GetAssemblies());
             //Domain Bus
             services.AddScoped<IEventBus, RabbitMQBus>();

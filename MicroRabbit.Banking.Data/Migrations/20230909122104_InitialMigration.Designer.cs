@@ -11,7 +11,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace MicroRabbit.Banking.Data.Migrations
 {
     [DbContext(typeof(BankingDbContext))]
-    [Migration("20230909092911_InitialMigration")]
+    [Migration("20230909122104_InitialMigration")]
     partial class InitialMigration
     {
         /// <inheritdoc />

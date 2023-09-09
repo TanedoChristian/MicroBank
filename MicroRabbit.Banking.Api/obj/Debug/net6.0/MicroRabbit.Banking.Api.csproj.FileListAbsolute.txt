@@ -69,3 +69,5 @@ C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Api\bin\D
 C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\net6.0\MicroRabbit.Infra.Bus.pdb
 C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\net6.0\MicroRabbit.Infra.IoC.pdb
 C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
