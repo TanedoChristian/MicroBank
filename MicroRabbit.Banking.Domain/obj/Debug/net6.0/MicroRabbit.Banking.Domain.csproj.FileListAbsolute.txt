@@ -1,0 +1,12 @@
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\net6.0\MicroRabbit.Banking.Domain.deps.json
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\net6.0\MicroRabbit.Banking.Domain.dll
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\net6.0\MicroRabbit.Banking.Domain.pdb
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net6.0\MicroRabbit.Banking.Domain.csproj.AssemblyReference.cache
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net6.0\MicroRabbit.Banking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net6.0\MicroRabbit.Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net6.0\MicroRabbit.Banking.Domain.AssemblyInfo.cs
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net6.0\MicroRabbit.Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net6.0\MicroRabbit.Banking.Domain.dll
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net6.0\refint\MicroRabbit.Banking.Domain.dll
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net6.0\MicroRabbit.Banking.Domain.pdb
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net6.0\ref\MicroRabbit.Banking.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\net6.0\MicroRabbit.Banking.Application.deps.json
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\net6.0\MicroRabbit.Banking.Application.dll
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\net6.0\MicroRabbit.Banking.Application.pdb
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\net6.0\MicroRabbit.Banking.Application.csproj.AssemblyReference.cache
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\net6.0\MicroRabbit.Banking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\net6.0\MicroRabbit.Banking.Application.AssemblyInfoInputs.cache
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\net6.0\MicroRabbit.Banking.Application.AssemblyInfo.cs
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\net6.0\MicroRabbit.Banking.Application.csproj.CoreCompileInputs.cache
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\net6.0\MicroRabbit.Banking.Application.dll
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\net6.0\refint\MicroRabbit.Banking.Application.dll
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\net6.0\MicroRabbit.Banking.Application.pdb
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\net6.0\ref\MicroRabbit.Banking.Application.dll
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\net6.0\MicroRabbit.Banking.Data.dll
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\net6.0\MicroRabbit.Banking.Domain.dll
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\net6.0\MicroRabbit.Banking.Data.pdb
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\net6.0\MicroRabbit.Banking.Domain.pdb
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\net6.0\MicroRabbit.Banking.Application.csproj.CopyComplete

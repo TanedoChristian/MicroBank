@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uGDaLBrYvtB+WnFu861X0pXozg4XRyb3PJO9H3fbtRZFu3GYvsZ3MJOBFBvWhCisGfffyfDHQhfMu2HVnfRhfQ==",
+  "dgSpecHash": "UGsRhXxIF6hvrzBLc5psocxRvWyk6yuk2JAMCV/JHKxbAM4oCIWskq5EzUmBZr38SfY+FiV3YX1aFGkOTh0XCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Full Scale\\Documents\\Projects\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Full Scale\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512"
+    "C:\\Users\\Full Scale\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\Full Scale\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\7.0.0\\mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Full Scale\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }
