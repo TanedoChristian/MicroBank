@@ -18,9 +18,5 @@ namespace MicroRabbit.Banking.Domain.Events
             To = to;
             Amount = amount;
         }
-
-
-
-
     }
 }

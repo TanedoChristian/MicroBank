@@ -15,3 +15,5 @@ C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Applicati
 C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\net6.0\MicroRabbit.Banking.Data.pdb
 C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\net6.0\MicroRabbit.Banking.Domain.pdb
 C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\net6.0\MicroRabbit.Banking.Application.csproj.CopyComplete
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\net6.0\MicroRabbit.Domain.Core.dll
+C:\Users\Full Scale\Documents\Projects\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\net6.0\MicroRabbit.Domain.Core.pdb

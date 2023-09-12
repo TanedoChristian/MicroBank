@@ -29,22 +29,18 @@ namespace MicroRabbit.Banking.Api.Controllers
             return Ok(await _accountService.GetAccountById(id));
         }
 
-        [HttpPost]
+        /*[HttpPost]
         public async Task<IActionResult> AddAcount(AccountDto accountDto)
         {
             var account = _mapper.Map<Account>(accountDto);
 
             return Ok(await _accountService.AddAccount(account));
-        }
+        }*/
 
-        [HttpPost]
-
-        public async Task<IActionResult> Transfer(AccountTransfer accountTransfer)
+        [HttpPost()]
+        public async Task<IActionResult> Transfer([FromBody] AccountTransfer accountTransfer)
         {
-
-           
             _accountService.TransferFunds(accountTransfer);
-
             return Ok(accountTransfer);
         }
 
