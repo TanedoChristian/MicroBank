@@ -2,6 +2,8 @@
 using MicroRabbit.Banking.Application.Services.AccountService;
 using MicroRabbit.Banking.Data.DataContext;
 using MicroRabbit.Banking.Data.Repository.AccountRepository;
+using MicroRabbit.Banking.Domain.CommandHandlers;
+using MicroRabbit.Banking.Domain.Commands;
 using MicroRabbit.Domain.Core.Bus;
 using MicroRabbit.Infra.Bus;
 using Microsoft.EntityFrameworkCore;
@@ -27,6 +29,7 @@ namespace MicroRabbit.Infra.IoC
 
             //Services
             services.AddScoped<IAccountService, AccountService>();
+            services.AddScoped<IRequestHandler<CreateTransferCommand, bool>, TransferCommandHandler>();
 
             //Banking Data
             services.AddScoped<IAccountRepository, AccountRepository>();
